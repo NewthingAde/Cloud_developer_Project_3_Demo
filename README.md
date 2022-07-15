@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/NewthingAde/Cloud_developer_Project_3_Demo/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/NewthingAde/Cloud_developer_Project_3_Demo/tree/main)
+
 # Microservices 
 
 ![1_V3rlWCItJsmYN97fQ2a3HQ](https://user-images.githubusercontent.com/80678596/177031484-3adf2eba-1c26-4841-953b-306678961395.png)
